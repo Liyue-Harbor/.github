@@ -1,12 +1,33 @@
-## Hi there 👋
+# 👋 欢迎来到璃月港 (Liyue-Harbor)
 
-<!--
+你好！我们是来自 **ZYZD** 的核心研发团队。
 
-**Here are some ideas to get you started:**
+**璃月港 (Liyue-Harbor)** 是我们团队在 GitHub 上的家。在这里，我们汇集代码、分享知识、协作创新。我们是一个快乐、和谐、充满朝气的团队，致力于用代码构筑美好的数字化世界。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🚀 我们的使命
+
+我们专注于为不同领域的客户提供高质量、高效率的软件解决方案，我们的服务范围包括：
+
+* 🏢 **服务政府**：以专业技术助力政务服务数字化转型，提升公共服务效率与体验。
+* 💼 **企业商单**：为各类企业客户量身定制专业的软件产品与技术服务，解决商业难题。
+* 💻 **内部数字化**：作为公司内部的技术引擎，驱动公司的数字化进程，赋能业务创新。
+
+## 🛠️ 我们的技术栈
+
+我们是 [Laravel](https://laravel.com/) 生态的忠实拥护者和实践者。我们坚信优雅的代码和高效的工具能够创造卓越的产品。我们主要围绕以下技术构建解决方案：
+
+* **核心框架**: PHP / Laravel
+* **后端生态**: Filament/ Dcat-admin / Livewire / Pest / Horizon
+* **前端技术**: Vue.js / TypeScript / Tailwind CSS
+* **数据库**: MySQL
+* **DevOps**: GitHub Actions / Docker (Sail)
+
+## 👨‍💻 我们的团队
+
+目前，我们的核心团队由两名充满热情的研发工程师和一名经验丰富的项目经理组成，共同迎接每一个挑战，享受创造的过程。
+
+---
+
+**感谢您的访问！**
